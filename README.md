@@ -39,10 +39,6 @@ I'm a DevOps engineer who likes turning manual, error-prone work into reliable a
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=d-sumda&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Streak](https://streak-stats.demolab.com?user=d-sumda&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d-sumda&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
