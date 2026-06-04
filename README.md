@@ -2,9 +2,12 @@
 
 ### Junior DevOps Engineer
 
-- 🔧 I keep the pipelines running and the infrastructure tidy by day.
-- 🌱 Currently building a personal portfolio site while leveling up my **React**, **TypeScript** and **Node.js**.
-- 💬 Happy to talk DevOps, CI/CD, cloud, or anything automation.
+I'm a DevOps engineer who likes turning manual, error-prone work into reliable automation — building CI/CD pipelines, provisioning infrastructure as code, and keeping deployments boring (in the best way). I care about clean tooling, reproducible environments, and making it easy for developers to ship.
+
+- 🔧 By day: keeping pipelines green, infrastructure tidy, and deployments repeatable.
+- 🌱 Currently: building a personal portfolio site while leveling up my **React**, **TypeScript** and **Node.js**.
+- 🚀 Into: containers, infrastructure-as-code, observability, and automating anything I have to do twice.
+- 💬 Ask me about: CI/CD, AWS, Docker, Terraform, or self-hosting on a Raspberry Pi.
 
 ## 🌐 Connect with me
 
@@ -26,7 +29,7 @@
 
 **DevOps & Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=flat&logo=teamcity&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/helm-%230F1689.svg?style=flat&logo=helm&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=flat&logo=teamcity&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
 
 **Tools**
 
